@@ -1,0 +1,6 @@
+{
+  "name": "First Step Higher Secondary School Chhindwara",
+  "description": "Modern mobile-first website for First Step Higher Secondary School, Chhindwara (M.P.). Established 1992, Nursery to 12th. Vidya Prathamo Charanah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

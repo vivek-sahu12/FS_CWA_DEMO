@@ -1,0 +1,244 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@700;800&amp;family=Outfit:wght@800;900&amp;display=swap');
+      .motto-text {
+        font-family: 'Noto Sans Devanagari', sans-serif;
+        font-weight: 800;
+        font-size: 21px;
+        fill: #0022C8;
+        letter-spacing: 1px;
+      }
+      .school-title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 900;
+        font-size: 24.5px;
+        fill: #E60000;
+        letter-spacing: 1.5px;
+      }
+      .city-text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 800;
+        font-size: 15px;
+        fill: #0022C8;
+        letter-spacing: 1.2px;
+      }
+      .estd-text {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 14px;
+        fill: #0022C8;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+
+  <!-- 1. Background Card -->
+  <rect x="5" y="5" width="590" height="390" rx="34" ry="34" fill="#FFF200" stroke="#0022C8" stroke-width="4.5" />
+
+  <!-- 2. Left Laurel Wreath Branch -->
+  <g id="left-wreath" fill="#0022C8" stroke="#0022C8">
+    <!-- Main stem -->
+    <path d="M 200 365 C 105 330, 36 240, 62 65" fill="none" stroke-width="4" stroke-linecap="round" />
+    
+    <!-- Top 3-leaf crown -->
+    <path d="M 62 65 C 64 45, 72 40, 72 56 Z" />
+    <path d="M 62 65 C 46 52, 40 40, 52 42 Z" />
+    <path d="M 62 65 C 56 30, 68 28, 66 48 Z" />
+
+    <!-- Outward / Inward Leaves along the curve -->
+    <!-- Pair 1 -->
+    <path d="M 58 75 C 38 68, 44 54, 58 64 Z" />
+    <path d="M 64 80 C 80 72, 82 86, 68 88 Z" />
+
+    <!-- Pair 2 -->
+    <path d="M 52 105 C 30 96, 36 82, 52 94 Z" />
+    <path d="M 58 112 C 76 104, 78 118, 64 120 Z" />
+
+    <!-- Pair 3 -->
+    <path d="M 46 142 C 22 132, 28 116, 46 128 Z" />
+    <path d="M 52 148 C 72 138, 74 154, 58 156 Z" />
+
+    <!-- Pair 4 -->
+    <path d="M 44 182 C 18 170, 24 154, 44 168 Z" />
+    <path d="M 50 188 C 70 178, 72 194, 56 196 Z" />
+
+    <!-- Pair 5 -->
+    <path d="M 46 225 C 20 215, 26 196, 48 210 Z" />
+    <path d="M 54 232 C 76 220, 78 238, 60 240 Z" />
+
+    <!-- Pair 6 -->
+    <path d="M 56 268 C 30 260, 36 242, 60 254 Z" />
+    <path d="M 66 274 C 88 264, 90 282, 72 284 Z" />
+
+    <!-- Pair 7 -->
+    <path d="M 76 308 C 50 304, 56 284, 82 294 Z" />
+    <path d="M 90 314 C 112 306, 112 324, 96 326 Z" />
+
+    <!-- Pair 8 -->
+    <path d="M 116 342 C 92 342, 94 322, 122 330 Z" />
+    <path d="M 148 358 C 125 362, 126 342, 154 348 Z" />
+  </g>
+
+  <!-- 3. Right Laurel Wreath Branch -->
+  <g id="right-wreath" fill="#0022C8" stroke="#0022C8">
+    <!-- Main stem -->
+    <path d="M 400 365 C 495 330, 564 240, 538 65" fill="none" stroke-width="4" stroke-linecap="round" />
+    
+    <!-- Top 3-leaf crown -->
+    <path d="M 538 65 C 536 45, 528 40, 528 56 Z" />
+    <path d="M 538 65 C 554 52, 560 40, 548 42 Z" />
+    <path d="M 538 65 C 544 30, 532 28, 534 48 Z" />
+
+    <!-- Outward / Inward Leaves along the curve -->
+    <!-- Pair 1 -->
+    <path d="M 542 75 C 562 68, 556 54, 542 64 Z" />
+    <path d="M 536 80 C 520 72, 518 86, 532 88 Z" />
+
+    <!-- Pair 2 -->
+    <path d="M 548 105 C 570 96, 564 82, 548 94 Z" />
+    <path d="M 542 112 C 524 104, 522 118, 536 120 Z" />
+
+    <!-- Pair 3 -->
+    <path d="M 554 142 C 578 132, 572 116, 554 128 Z" />
+    <path d="M 548 148 C 528 138, 526 154, 542 156 Z" />
+
+    <!-- Pair 4 -->
+    <path d="M 556 182 C 582 170, 576 154, 556 168 Z" />
+    <path d="M 550 188 C 530 178, 528 194, 544 196 Z" />
+
+    <!-- Pair 5 -->
+    <path d="M 554 225 C 580 215, 574 196, 552 210 Z" />
+    <path d="M 546 232 C 524 220, 522 238, 540 240 Z" />
+
+    <!-- Pair 6 -->
+    <path d="M 544 268 C 570 260, 564 242, 540 254 Z" />
+    <path d="M 534 274 C 512 264, 510 282, 528 284 Z" />
+
+    <!-- Pair 7 -->
+    <path d="M 524 308 C 550 304, 544 284, 518 294 Z" />
+    <path d="M 510 314 C 488 306, 488 324, 504 326 Z" />
+
+    <!-- Pair 8 -->
+    <path d="M 484 342 C 508 342, 506 322, 478 330 Z" />
+    <path d="M 452 358 C 475 362, 474 342, 446 348 Z" />
+  </g>
+
+  <!-- 4. Top Motto Scroll Banner -->
+  <g id="top-motto-group">
+    <!-- Curved Yellow Ribbon with Blue Border -->
+    <path d="M 160 88 C 220 38, 380 38, 440 88 L 424 116 C 374 72, 226 72, 176 116 Z" 
+          fill="#FFF200" stroke="#0022C8" stroke-width="3" />
+
+    <!-- Left Scroll Roll End with Red Curl and Dots -->
+    <path d="M 160 88 C 145 92, 126 80, 132 64 C 140 48, 164 54, 168 70 C 170 82, 155 88, 142 80 C 136 76, 140 66, 148 68" 
+          fill="#FFF200" stroke="#0022C8" stroke-width="2.5" />
+    <!-- Red Scroll Core / Spiral Fill -->
+    <path d="M 132 64 C 138 52, 156 56, 160 68 C 162 76, 152 82, 144 76 C 140 72, 142 66, 148 68 Z" 
+          fill="#E60000" stroke="#E60000" stroke-width="1" />
+    <!-- Double Dots on Left Scroll -->
+    <circle cx="150" cy="74" r="4.5" fill="#E60000" stroke="#0022C8" stroke-width="1.5" />
+    <circle cx="162" cy="62" r="4.5" fill="#E60000" stroke="#0022C8" stroke-width="1.5" />
+
+    <!-- Right Scroll Roll End with Red Curl and Dots -->
+    <path d="M 440 88 C 455 92, 474 80, 468 64 C 460 48, 436 54, 432 70 C 430 82, 445 88, 458 80 C 464 76, 460 66, 452 68" 
+          fill="#FFF200" stroke="#0022C8" stroke-width="2.5" />
+    <!-- Red Scroll Core / Spiral Fill -->
+    <path d="M 468 64 C 462 52, 444 56, 440 68 C 438 76, 448 82, 456 76 C 460 72, 458 66, 452 68 Z" 
+          fill="#E60000" stroke="#E60000" stroke-width="1" />
+    <!-- Double Dots on Right Scroll -->
+    <circle cx="450" cy="74" r="4.5" fill="#E60000" stroke="#0022C8" stroke-width="1.5" />
+    <circle cx="438" cy="62" r="4.5" fill="#E60000" stroke="#0022C8" stroke-width="1.5" />
+
+    <!-- Motto Text Path -->
+    <path id="topMottoArc" d="M 180 96 C 235 55, 365 55, 420 96" fill="none" stroke="none" />
+    <text class="motto-text">
+      <textPath href="#topMottoArc" xlink:href="#topMottoArc" startOffset="50%" text-anchor="middle">
+        विद्या प्रथमो चरण:
+      </textPath>
+    </text>
+  </g>
+
+  <!-- 5. Central Red "FS" Monogram (Bold Stylized Calligraphic Emblem) -->
+  <g id="center-monogram" fill="#E60000" stroke="#E60000">
+    <!-- Top Horizontal Crossbar of F -->
+    <path d="M 262 86 C 285 70, 315 70, 365 74 C 368 84, 350 94, 324 88 C 295 82, 275 92, 262 86 Z" stroke-width="1" />
+
+    <!-- Middle Horizontal Crossbar of F -->
+    <path d="M 252 126 C 280 110, 335 110, 372 136 C 362 148, 338 140, 310 132 C 280 124, 260 138, 252 126 Z" stroke-width="1" />
+
+    <!-- Central Vertical Stem of F down to S junction -->
+    <path d="M 292 68 L 316 68 L 312 165 C 304 168, 298 168, 292 165 Z" stroke-width="1" />
+
+    <!-- Flowing Stylized "S" -->
+    <path d="M 308 162 
+             C 275 160, 240 178, 240 208 
+             C 240 236, 275 246, 310 252 
+             C 345 258, 368 266, 368 288 
+             C 368 314, 330 330, 290 326 
+             C 255 322, 242 306, 240 292 
+             C 240 286, 246 284, 252 288 
+             C 260 305, 280 312, 305 312 
+             C 335 312, 350 298, 350 282 
+             C 350 262, 325 252, 288 244 
+             C 255 238, 222 226, 222 198 
+             C 222 170, 258 152, 308 155 Z" 
+          stroke-width="1.5" />
+  </g>
+
+  <!-- 6. Lower Curved Ribbon for "FIRST STEP SR. SEC. SCHOOL" -->
+  <g id="bottom-school-banner">
+    <!-- Main Arch Ribbon Body -->
+    <path d="M 90 190 
+             C 190 270, 410 270, 510 190 
+             L 516 244 
+             C 410 328, 190 328, 84 244 Z" 
+          fill="#FFF200" stroke="#0022C8" stroke-width="3.5" />
+
+    <!-- School Name Arched Text Path -->
+    <path id="schoolTitleArc" d="M 98 224 C 195 304, 405 304, 502 224" fill="none" stroke="none" />
+    <text class="school-title">
+      <textPath href="#schoolTitleArc" xlink:href="#schoolTitleArc" startOffset="50%" text-anchor="middle">
+        FIRST STEP SR. SEC. SCHOOL
+      </textPath>
+    </text>
+  </g>
+
+  <!-- 7. Center Lower Scroll Box for "CHHINDWARA (M.P.)" & "Estd : 1992" -->
+  <g id="city-estd-box">
+    <!-- Box Body with Rounded Bottom Edge -->
+    <path d="M 215 322 L 385 322 L 380 376 C 345 388, 255 388, 220 376 Z" 
+          fill="#FFF200" stroke="#0022C8" stroke-width="3" />
+
+    <!-- Left Scroll End with Spiral Curl -->
+    <path d="M 215 334 C 192 338, 182 358, 196 372 C 206 375, 216 368, 216 358" 
+          fill="none" stroke="#0022C8" stroke-width="3" stroke-linecap="round" />
+
+    <!-- Right Scroll End with Spiral Curl -->
+    <path d="M 385 334 C 408 338, 418 358, 404 372 C 394 375, 384 368, 384 358" 
+          fill="none" stroke="#0022C8" stroke-width="3" stroke-linecap="round" />
+
+    <!-- CHHINDWARA (M.P.) -->
+    <text x="300" y="348" text-anchor="middle" class="city-text">
+      CHHINDWARA (M.P.)
+    </text>
+
+    <!-- Estd : 1992 -->
+    <text x="300" y="370" text-anchor="middle" class="estd-text">
+      Estd : 1992
+    </text>
+
+    <!-- Bottom Left & Right Flourish Leaves -->
+    <g fill="#0022C8">
+      <!-- Bottom Left Leaf Pair -->
+      <path d="M 180 354 C 158 350, 164 336, 186 344 Z" />
+      <path d="M 172 368 C 150 366, 154 350, 178 356 Z" />
+      <path d="M 198 382 C 176 384, 176 368, 198 372 Z" />
+
+      <!-- Bottom Right Leaf Pair -->
+      <path d="M 420 354 C 442 350, 436 336, 414 344 Z" />
+      <path d="M 428 368 C 450 366, 446 350, 422 356 Z" />
+      <path d="M 402 382 C 424 384, 424 368, 402 372 Z" />
+    </g>
+  </g>
+</svg>
